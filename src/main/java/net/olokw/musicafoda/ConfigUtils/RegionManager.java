@@ -3,7 +3,6 @@ package net.olokw.musicafoda.ConfigUtils;
 import com.sk89q.worldguard.protection.regions.ProtectedRegion;
 
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class RegionManager {
