@@ -1,0 +1,8 @@
+exemplo:
+  region-name: l1
+  region-world: labirinto
+  music: "custom:l1_music"
+  loop-time: 2960 # tempo em ticks
+  volume: 1
+  pitch: 1
+  

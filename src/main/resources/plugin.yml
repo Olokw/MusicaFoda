@@ -1,0 +1,8 @@
+name: MusicaFoda
+version: '${project.version}'
+main: net.olokw.musicafoda.MusicaFoda
+depend: [WorldGuard]
+api-version: '1.20'
+commands:
+  musicafoda:
+    usage: /<command>
