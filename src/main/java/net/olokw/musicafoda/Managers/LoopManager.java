@@ -6,8 +6,11 @@ import com.sk89q.worldguard.protection.regions.ProtectedRegion;
 import net.olokw.musicafoda.MusicaFoda;
 import net.olokw.musicafoda.Utils.LoopConfig;
 import net.olokw.musicafoda.Utils.RegionConfig;
+import org.bukkit.Effect;
+import org.bukkit.Location;
+import org.bukkit.Sound;
 import org.bukkit.SoundCategory;
-import org.bukkit.entity.Player;
+import org.bukkit.entity.*;
 import org.bukkit.scheduler.BukkitRunnable;
 import org.bukkit.scheduler.BukkitTask;
 
@@ -46,7 +49,8 @@ public class LoopManager {
                         return;
                     }
                 }
-                player.playSound(player, music, SoundCategory.RECORDS, volume, pitch);
+
+                player.playSound(player.getLocation(), music, SoundCategory.RECORDS, volume, pitch);
                 i++;
             }
         }.runTaskTimer(MusicaFoda.instance, 0, loopTime);
