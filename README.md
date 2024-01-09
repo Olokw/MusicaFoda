@@ -11,5 +11,5 @@ Entretanto, caso o jogador volte para uma região com música, que tenha aquela 
 
 Tudo que precisa ser feito é específicar o nome da região, o nome do mundo da região, o nome da música (na textura), o tempo da música (em ticks), o volume do som e o pitch do som.
 
-Versão do plugin: 1.20+. 
-Você pode alterar ele (através da source-code) para deixá-lo compatível com outras versões, caso queira. Não fiz isso pois designei esse plugin para meu servidor (que está na 1.20), e não havia utilidade (para mim) em fazer isso.
+Versão do plugin: 1.18+. 
+Você pode alterar ele (através da source-code) para deixá-lo compatível com outras versões mais antigas, caso queira. 
