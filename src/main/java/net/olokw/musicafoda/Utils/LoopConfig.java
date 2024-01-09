@@ -1,4 +1,4 @@
-package net.olokw.musicafoda.ConfigUtils;
+package net.olokw.musicafoda.Utils;
 
 import org.bukkit.scheduler.BukkitTask;
 

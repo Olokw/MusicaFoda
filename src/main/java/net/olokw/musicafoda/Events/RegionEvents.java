@@ -4,7 +4,7 @@ import com.sk89q.worldedit.bukkit.BukkitAdapter;
 import com.sk89q.worldguard.WorldGuard;
 import com.sk89q.worldguard.protection.regions.ProtectedRegion;
 import de.netzkronehd.wgregionevents.events.RegionEnterEvent;
-import net.olokw.musicafoda.ConfigUtils.RegionConfig;
+import net.olokw.musicafoda.Utils.RegionConfig;
 import net.olokw.musicafoda.MusicaFoda;
 import org.bukkit.SoundCategory;
 import org.bukkit.event.EventHandler;

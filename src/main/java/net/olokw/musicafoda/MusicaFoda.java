@@ -1,11 +1,10 @@
 package net.olokw.musicafoda;
 
 import net.olokw.musicafoda.Commands.MainCommand;
-import net.olokw.musicafoda.ConfigUtils.ConfigLoader;
-import net.olokw.musicafoda.ConfigUtils.LoopManager;
-import net.olokw.musicafoda.ConfigUtils.RegionManager;
+import net.olokw.musicafoda.Utils.ConfigLoader;
+import net.olokw.musicafoda.Managers.LoopManager;
+import net.olokw.musicafoda.Managers.RegionManager;
 import org.bukkit.plugin.java.JavaPlugin;
-import org.checkerframework.checker.units.qual.C;
 
 public final class MusicaFoda extends JavaPlugin {
 

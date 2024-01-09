@@ -1,9 +1,11 @@
-package net.olokw.musicafoda.ConfigUtils;
+package net.olokw.musicafoda.Managers;
 
 import com.sk89q.worldedit.bukkit.BukkitAdapter;
 import com.sk89q.worldguard.WorldGuard;
 import com.sk89q.worldguard.protection.regions.ProtectedRegion;
 import net.olokw.musicafoda.MusicaFoda;
+import net.olokw.musicafoda.Utils.LoopConfig;
+import net.olokw.musicafoda.Utils.RegionConfig;
 import org.bukkit.SoundCategory;
 import org.bukkit.entity.Player;
 import org.bukkit.scheduler.BukkitRunnable;

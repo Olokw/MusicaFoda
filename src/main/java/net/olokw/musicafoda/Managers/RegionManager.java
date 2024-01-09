@@ -1,6 +1,7 @@
-package net.olokw.musicafoda.ConfigUtils;
+package net.olokw.musicafoda.Managers;
 
 import com.sk89q.worldguard.protection.regions.ProtectedRegion;
+import net.olokw.musicafoda.Utils.RegionConfig;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package net.olokw.musicafoda.ConfigUtils;
+package net.olokw.musicafoda.Utils;
 
 import com.sk89q.worldedit.bukkit.BukkitAdapter;
 import com.sk89q.worldguard.WorldGuard;

@@ -1,4 +1,4 @@
-package net.olokw.musicafoda.ConfigUtils;
+package net.olokw.musicafoda.Utils;
 
 import net.olokw.musicafoda.MusicaFoda;
 import org.bukkit.configuration.file.YamlConfiguration;
